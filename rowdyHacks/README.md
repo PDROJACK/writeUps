@@ -241,7 +241,7 @@ Now that we have the password lets open the Apollo.7z file.
 
 It contains a mp3 file Apollo.mp3.
 
->>![Apollo](https://media.giphy.com/media/RK9havaWZzZy9US10A/giphy.gif)
+>>![Apollo](https://media.giphy.com/media/YN7QYLgrcL5YWubZdf/giphy.gif)
 
 Lets play the audio, mmmm it contains some chat between the Apollo cosmonauts and ground control nothing useful.
 
