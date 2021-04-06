@@ -8,15 +8,14 @@ Hey Everyone This is pdrojack. I participated in RowdyHacks 2021 hackathon CTF a
 * Type: Steganography, Password Cracking, Audio Steganography
 * Tools: Hashcat, binwalk, xxd, strings, 7zip
 * Problem: CTF was divided into two parts:
+    * In the 1st part, we were given three image files and have to find three flags in total from these files. These flags are hints to get the password of a 7z file named Apollo.7z, which contains the part 2 of the ctf.
     * In the 2nd part, we have to crack the password of Apollo.7z file and then we have to get the flag from extracted Apollo.mp3 file.
 
 ----
 
 ## Part 1
 
-In the 1st part, we were given three image files and have to find three flags in total from these files. These flags are hints to get the password of a 7z file named Apollo.7z, which contains the part 2 of the ctf.
-
-Three image files were:
+Three image files were given in the first part:
 
     - EmployeeOfTheMonth.jpg
     - Suetonius.jpg
